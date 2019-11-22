@@ -140,4 +140,4 @@ class web_all_round:
 
 
 #  使用示范
-web_all_round('1717213108','liushaze@123','江苏省无锡市惠山区钱藕路1号')
+web_all_round('你的学号','登录密码','签到地址')
